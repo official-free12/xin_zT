@@ -1,0 +1,6 @@
+# 新版正规分销 生息 理财 分红 赚钱系统
+
+演示地址：http://example.comexample.com<br>测试账号18888888888<br>测试密码：18888888888<br>升级日志：<br>（example.com）<br>1:冗余的js以及Css，流畅度和体验性更好。<br>2:优化手机版界面以及众多bug。<br>3:增强主流浏览器兼容性。<br>3:修复多处存在sql注入的漏洞，安全完美运营。<br>（example.com）<br>1：全站ui用到的js以及css做了优化精简，系统更流畅。<br>2：定时清理，为了保持系统的流畅稳定，做了定时清理任务，方便运营。<br>3：移除几处base64编码后门。<br>功能列表：<br>1：会员管理<br>2：发圈任务<br>3：生息产品管理<br>4：资金管理<br>5：反馈管理<br>6：权限自定义<br>7：系统设置，数据备份，全局日志<br>8：合法的三级分销，公平合理。<br>9：产品生息模式可以自定义。<br>10：领袖奖，注册赠送。<br>11：盈利简单粗暴。<br>12：源码有安装说明。<br>亲爱的各位买家朋友，懂源码就直接购买；<br>example.com，使用方必须在国家相关法律法规范围内并经过国家相关部门的授权许可，禁止用于一切非法行为。<br>example.com、实验、研究为目的，禁止用于一切商业运营，本团队不承担使用者在使用过程中的任何违法行为负责。<br>example.com。<br>注：<br>1、请勿以无法对接或者其他相关问题退款，本店所有技术服务均为收费费用；<br>2、商品设置的安装调试只是单网站运行环境配置，不包含其它任何相关配置；<br>3、如源码存在问题可以购买的技术服务；本店承接数字资产相关服务；<br>4、网站相关接口均为收费配置；<br>5、请不要以任何这样那样的问题说程序无法运行；<br>描述此节主要防止骗取源码朋友，报骗取源码心态请绕行；<br>我们尽快我们所服务能力服务好我们忠实用户；<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/9PDql" style="color: red;">https://mega-file.org/9PDql</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
